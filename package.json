@@ -16,6 +16,7 @@
   "author": "Rahul and Pratik",
   "license": "LGPL-3.0",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongodb": "^5.8.1"
   }
 }
